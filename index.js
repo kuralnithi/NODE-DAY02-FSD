@@ -8,7 +8,7 @@ const PORT = 4000;
 
 app.use(cors());
 
-app.u  se(express.json())
+app.use(express.json())
 
 
 app.use('/api/employees',employee)
